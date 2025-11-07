@@ -1,4 +1,4 @@
-Got it 👍 — since you’ve completed the **EazyDiner Hotel Accommodation Data Collection, Cleaning, and EDA Project** (based on your files and the provided documentation), here’s a professional **README.md** file tailored to your project setup, including scraping, data cleaning.
+**EazyDiner Hotel Accommodation Data Collection, Cleaning, and EDA Project** 
 
 ---
 Website Link : https://www.eazydiner.com/
