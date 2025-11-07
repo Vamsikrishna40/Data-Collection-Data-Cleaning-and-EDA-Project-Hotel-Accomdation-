@@ -1,4 +1,4 @@
-**EazyDiner Hotel Accommodation Data Collection, Cleaning, and EDA Project** 
+# EazyDiner Hotel Accommodation Data Collection, Cleaning, and EDA Project
 
 ---
 Website Link : https://www.eazydiner.com/
